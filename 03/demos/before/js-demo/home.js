@@ -1,5 +1,7 @@
-showMessage("Get this Discount!");
+let myMessageBeThis = "Get this Discount!";
+let percentage = 50;
 
-showMessage("Get this Discount2!");
+showMessage(myMessageBeThis);
+showPercentage(percentage);
 
 console.log("Here is my console")
